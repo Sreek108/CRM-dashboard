@@ -11,7 +11,7 @@ warnings.filterwarnings('ignore')
 
 # Page configuration
 st.set_page_config(
-    page_title="QUARA FINANCE - Complete CRM Dashboard", 
+    page_title="CRM Dashboard", 
     page_icon="🏢",
     layout="wide",
     initial_sidebar_state="expanded"
